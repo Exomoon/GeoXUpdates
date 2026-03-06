@@ -1,0 +1,11 @@
+{
+  "items": [
+    {
+      "id": "release-0.1.0",
+      "title": "GeoX 0.1.0 release payload prepared",
+      "summary": "Updater manifest and artifact metadata generated from release-manifest.json.",
+      "publishedAt": "2026-03-06T20:25:25Z",
+      "category": "Release"
+    }
+  ]
+}

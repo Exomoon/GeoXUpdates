@@ -1,0 +1,25 @@
+{
+  "version": "0.1.0",
+  "channel": "stable",
+  "publishedAtUtc": "2026-03-06T20:25:25Z",
+  "artifacts": [
+    {
+      "name": "tauri-appgeox_0.1.0_amd64.AppImage",
+      "url": "https://github.com/Exomoon/GeoXUpdates/releases/download/v0.1.0/tauri-appgeox_0.1.0_amd64.AppImage",
+      "sizeBytes": 115370488,
+      "sha256": "6c401101c2b6b0607f89c77e6d048d18a85429d9cef2758f241a56cdb7ad26af"
+    },
+    {
+      "name": "tauri-appgeox_0.1.0_amd64.deb",
+      "url": "https://github.com/Exomoon/GeoXUpdates/releases/download/v0.1.0/tauri-appgeox_0.1.0_amd64.deb",
+      "sizeBytes": 8554020,
+      "sha256": "e1a80227cb21716a83f9aa65b280f9311e7f5abd9906fc2ffe63355115db49f0"
+    },
+    {
+      "name": "tauri-appgeox-0.1.0-1.x86_64.rpm",
+      "url": "https://github.com/Exomoon/GeoXUpdates/releases/download/v0.1.0/tauri-appgeox-0.1.0-1.x86_64.rpm",
+      "sizeBytes": 8554930,
+      "sha256": "c3e870f3f1d9010a034b0c4fb25fcb9f1db7e1ef72641a340742d5c73b9a8093"
+    }
+  ]
+}
